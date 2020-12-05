@@ -4,7 +4,7 @@
   "version": "1.0.3",
   "main": "lib/index.js",
   "author": "Hellenic",
-  "repository": "Hellenic/react-hexgrid",
+  "repository": "francois-baptiste/react-hexgrid",
   "license": "MIT",
   "scripts": {
     "compile": "babel src/ --out-dir lib",

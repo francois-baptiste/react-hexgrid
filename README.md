@@ -1,10 +1,10 @@
 # react-hexgrid
 
-[![build status](https://img.shields.io/travis/Hellenic/react-hexgrid/master.svg?style=flat-square)](https://travis-ci.org/Hellenic/react-hexgrid)
+[![build status](https://img.shields.io/travis/francois-baptiste/react-hexgrid/master.svg?style=flat-square)](https://travis-ci.org/francois-baptiste/react-hexgrid)
 ![Downloads](https://img.shields.io/npm/dt/react-hexgrid.svg)
 ![npm version](https://img.shields.io/npm/v/react-hexgrid.svg)
-[![dependencies Status](https://david-dm.org/Hellenic/react-hexgrid/status.svg)](https://david-dm.org/Hellenic/react-hexgrid)
-[![devDependencies Status](https://david-dm.org/Hellenic/react-hexgrid/dev-status.svg)](https://david-dm.org/Hellenic/react-hexgrid?type=dev)
+[![dependencies Status](https://david-dm.org/francois-baptiste/react-hexgrid/status.svg)](https://david-dm.org/francois-baptiste/react-hexgrid)
+[![devDependencies Status](https://david-dm.org/francois-baptiste/react-hexgrid/dev-status.svg)](https://david-dm.org/francois-baptiste/react-hexgrid?type=dev)
 [![Live demo](https://img.shields.io/badge/live-demo-brightgreen.svg?style=flat-square)](https://hellenic.github.io/react-hexgrid/examples/)
 ![License](https://img.shields.io/npm/l/react-hexgrid.svg)
 
@@ -31,7 +31,7 @@ Install it via npm:
 npm install --save react-hexgrid
 ```
 
-More documentation in the [Wiki](https://github.com/Hellenic/react-hexgrid/wiki).
+More documentation in the [Wiki](https://github.com/francois-baptiste/react-hexgrid/wiki).
 
 ## Example
 
@@ -74,7 +74,7 @@ class App extends Component {
 ```
 
 Will look something like this (custom CSS applied):
-![HexGrid image](https://raw.githubusercontent.com/Hellenic/react-hexgrid/master/react-hexgrid.png "HexGrid")
+![HexGrid image](https://raw.githubusercontent.com/francois-baptiste/react-hexgrid/master/react-hexgrid.png "HexGrid")
 
 ## Examples
 
@@ -82,15 +82,15 @@ See examples folder.
 
 ### Basics
 
-1. [basic-board](https://github.com/Hellenic/react-hexgrid/tree/master/examples/basic-board) - Basic usage of react-hexgrid
-2. [custom-grid](https://github.com/Hellenic/react-hexgrid/tree/master/examples/custom-grid) - Simple custom grid
-3. [templates](https://github.com/Hellenic/react-hexgrid/tree/master/examples/templates) - Ready-made grid templates
+1. [basic-board](https://github.com/francois-baptiste/react-hexgrid/tree/master/examples/basic-board) - Basic usage of react-hexgrid
+2. [custom-grid](https://github.com/francois-baptiste/react-hexgrid/tree/master/examples/custom-grid) - Simple custom grid
+3. [templates](https://github.com/francois-baptiste/react-hexgrid/tree/master/examples/templates) - Ready-made grid templates
 
 ### Advanced
 
-1. [pathfinding](https://github.com/Hellenic/react-hexgrid/tree/master/examples/pathfinding) - Pathfinding
-2. [drag & drop](https://github.com/Hellenic/react-hexgrid/tree/master/examples/drag-and-drop) - Drag & drop with two grids
-3. [animations](https://github.com/Hellenic/react-hexgrid/tree/master/examples/animations) - Animations & effects
+1. [pathfinding](https://github.com/francois-baptiste/react-hexgrid/tree/master/examples/pathfinding) - Pathfinding
+2. [drag & drop](https://github.com/francois-baptiste/react-hexgrid/tree/master/examples/drag-and-drop) - Drag & drop with two grids
+3. [animations](https://github.com/francois-baptiste/react-hexgrid/tree/master/examples/animations) - Animations & effects
 
 ## Testing changes locally
 
