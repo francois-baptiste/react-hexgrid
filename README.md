@@ -5,7 +5,7 @@
 ![npm version](https://img.shields.io/npm/v/react-hexgrid.svg)
 [![dependencies Status](https://david-dm.org/francois-baptiste/react-hexgrid/status.svg)](https://david-dm.org/francois-baptiste/react-hexgrid)
 [![devDependencies Status](https://david-dm.org/francois-baptiste/react-hexgrid/dev-status.svg)](https://david-dm.org/francois-baptiste/react-hexgrid?type=dev)
-[![Live demo](https://img.shields.io/badge/live-demo-brightgreen.svg?style=flat-square)](https://hellenic.github.io/react-hexgrid/examples/)
+[![Live demo](https://img.shields.io/badge/live-demo-brightgreen.svg?style=flat-square)](https://francois-baptiste.github.io/react-hexgrid/examples/)
 ![License](https://img.shields.io/npm/l/react-hexgrid.svg)
 
 React components to build interactive hexagons grids. It uses SVG which makes it fast, scalable and easy to apply custom styles. You can easily customize the layout of the grid just by configuration.

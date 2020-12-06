@@ -1,7 +1,7 @@
 {
   "name": "animations",
   "version": "0.1.0",
-  "homepage": "https://hellenic.github.io/react-hexgrid/examples/animations/",
+  "homepage": "https://francois-baptiste.github.io/react-hexgrid/examples/animations/",
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
